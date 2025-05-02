@@ -2,7 +2,7 @@
 
 
   ```
-  docker-compose up -d
+  docker compose up -d
   ```
 
 ## Laravel app: http://localhost:8876
